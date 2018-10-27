@@ -1,4 +1,4 @@
-# サンプル（プロダクト名）
+# 自動筆記装置（プロダクト名）
 
 [![Product Name](image.png)](https://www.youtube.com/watch?v=G5rULR53uMk)
 
