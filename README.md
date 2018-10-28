@@ -1,6 +1,6 @@
 # 自動筆記装置（プロダクト名）
 
-[![Product Name](image.png)]()
+[![Product Name](concept.png)]()
 
 ## 製品概要
 ### Write Tech
