@@ -1,6 +1,6 @@
 # 自動筆記装置（プロダクト名）
 
-[![Product Name](concept.png)]()
+[![Product Name](concept.png)](https://youtu.be/_fqETXcVRQA)
 
 ## 製品概要
 ### Write Tech
