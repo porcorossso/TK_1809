@@ -37,6 +37,7 @@ IoT
 
 #### API・データ
 今回スポンサーから提供されたAPI、製品などの外部技術があれば記述をして下さい。
+infineonさん
 １．マイコン　Coretex M0　小型版 *1枚
 ２．マイコン　Coretex M0　Aruduino 互換 *2枚
 ３．マイコン　Coretex M4　Aruduino 互換 *2枚
