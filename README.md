@@ -1,6 +1,7 @@
 # 自動筆記装置（プロダクト名）
 
 [![Product Name](nagare.png)](https://youtu.be/_fqETXcVRQA)
+イメージ画像が　紹介動画(https://youtu.be/_fqETXcVRQA) へのリンクになっています
 
 ## 製品概要
 ### Write Tech
